@@ -1,0 +1,7 @@
+{
+"cats": [
+    {"name": "Mozart", "age": 4},
+    {"name": "Chopin", "age": 3},
+    {"name": "Bach", "age": 5},
+]
+}
