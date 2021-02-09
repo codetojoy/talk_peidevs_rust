@@ -2,7 +2,6 @@
 // goal: sort list of cats
 
 use std::vec::Vec;
-use std::fmt;
 
 #[derive(Debug)]
 pub struct Cat {
@@ -19,12 +18,6 @@ impl Cat {
     }
 }
 
-impl fmt::Display for Cat {
-    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        write!(f, "name: {} age: {}", self.name, self.age)
-    }
-}
-
 fn main() {
     let mut cats = Vec::<Cat>::new();
     let cat1 = Cat {name: String::from("Mozart"), age: 4, .. Cat::new()};
@@ -35,7 +28,7 @@ fn main() {
     cats.push(cat3);
 
     for cat in cats {
-        println!("TRACER {}", cat);
+        println!("TRACER {:?}", cat);
     }
     println!("TRACER Ready.");
 }

@@ -2,13 +2,6 @@
 // goal: sort list of cats
 
 use std::vec::Vec;
-use std::fmt;
-
-#[derive(Debug)]
-pub struct Cat {
-    pub name: String,
-    pub age: u8,
-}
 
 impl Cat {
     pub fn new() -> Cat {
@@ -19,10 +12,10 @@ impl Cat {
     }
 }
 
-impl fmt::Display for Cat {
-    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        write!(f, "name: {} age: {}", self.name, self.age)
-    }
+#[derive(Debug)]
+pub struct Cat {
+    pub name: String,
+    pub age: u8,
 }
 
 fn main() {
@@ -37,7 +30,7 @@ fn main() {
     cats.sort_by(|a, b| b.name.cmp(&a.name));
 
     for cat in cats {
-        println!("TRACER {}", cat);
+        println!("TRACER {:?}", cat);
     }
     println!("TRACER Ready.");
 }

@@ -1,12 +1,4 @@
 
-use std::fmt;
-
-#[derive(Debug)]
-pub struct Cat {
-    pub name: String,
-    pub age: u8,
-}
-
 impl Cat {
     pub fn new() -> Cat {
         Cat {
@@ -16,14 +8,14 @@ impl Cat {
     }
 }
 
-impl fmt::Display for Cat {
-    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        write!(f, "name: {} age: {}", self.name, self.age)
-    }
+#[derive(Debug)]
+pub struct Cat {
+    pub name: String,
+    pub age: u8,
 }
 
 fn do_log(cat: Cat) {
-    println!("TRACER {}", cat);
+    println!("TRACER {:?}", cat);
 }
 
 fn main() {
@@ -31,5 +23,11 @@ fn main() {
     do_log(cat1);
 
     // !!!
-    // println!("TRACER {}", cat1);
+    // println!("TRACER {:?}", cat1);
 }
+
+
+
+
+
+

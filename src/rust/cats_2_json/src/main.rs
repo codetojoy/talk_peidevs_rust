@@ -1,13 +1,11 @@
 
 use serde_json;
 use serde::{Deserialize, Serialize};
-// use std::convert::TryFrom;
 use std::fs;
 
 // goal: cats from json
 
 use std::env;
-use std::fmt;
 use std::vec::Vec;
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -22,12 +20,6 @@ impl Cat {
             name: String::from(""),
             age: 0,
         }
-    }
-}
-
-impl fmt::Display for Cat {
-    fn fmt(&self, f: &mut fmt::Formatter) -> fmt::Result {
-        write!(f, "name: {} age: {}", self.name, self.age)
     }
 }
 
@@ -46,7 +38,7 @@ fn main() {
     cats.sort_by(|a, b| b.name.cmp(&a.name));
 
     for cat in cats {
-        println!("TRACER {}", cat);
+        println!("TRACER {:?}", cat);
     }
     println!("TRACER Ready.");
 }

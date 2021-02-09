@@ -5,4 +5,5 @@ do
    echo ""
 done
 
-cargo run
+cargo clean 
+cargo -q run

@@ -42,7 +42,7 @@ fn main() {
         }
     });
 
-        handle.join().unwrap();
+    handle.join().unwrap();
 
     // we can't use `cats` because ownership was moved
     /*

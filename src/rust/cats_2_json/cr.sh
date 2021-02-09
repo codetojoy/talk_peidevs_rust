@@ -5,4 +5,5 @@ do
    echo ""
 done
 
-cargo run cats.json
+# cargo clean
+cargo -q run cats.json 

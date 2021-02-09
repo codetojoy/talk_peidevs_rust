@@ -5,14 +5,14 @@
 
 using namespace std;
 
-class Cat {  
-  public:     
+class Cat {
+  public:
     string name;
-    int age;   
+    int age;
 
     Cat(string s, int n) {
         name = s;
-        age = n; 
+        age = n;
     }
 };
 
@@ -24,11 +24,11 @@ int main() {
     vector<Cat> cats;
     cats.push_back(Cat("Mozart", 3));
 
-    Cat &x = cats[0];
+    Cat &mozart = cats[0];
 
     cats.push_back(Cat("Bach", 5));
 
-    cout << x;
+    cout << mozart;
     cout << "Hello World!\n";
     return 0;
 }

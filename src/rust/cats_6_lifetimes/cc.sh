@@ -5,5 +5,4 @@ do
    echo ""
 done
 
-cargo clean -q
-cargo run -q
+cargo check
