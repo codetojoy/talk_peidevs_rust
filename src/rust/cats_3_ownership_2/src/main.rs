@@ -1,13 +1,4 @@
 
-impl Cat {
-    pub fn new() -> Cat {
-        Cat {
-            name: String::from(""),
-            age: 0,
-        }
-    }
-}
-
 #[derive(Debug)]
 pub struct Cat {
     pub name: String,
@@ -19,7 +10,8 @@ fn do_log(cat: Cat) {
 }
 
 fn main() {
-    let cat1 = Cat {name: String::from("Mozart"), age: 4, .. Cat::new()};
+    let mut cat1 = Cat {name: String::from("Mozart"), age: 4};
+    cat1.age += 1;
     do_log(cat1);
 
     // !!!
