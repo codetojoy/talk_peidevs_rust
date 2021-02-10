@@ -3,8 +3,6 @@ use serde_json;
 use serde::{Deserialize, Serialize};
 use std::fs;
 
-// goal: cats from json
-
 use std::env;
 use std::vec::Vec;
 
@@ -12,15 +10,6 @@ use std::vec::Vec;
 pub struct Cat {
     pub name: String,
     pub age: u8,
-}
-
-impl Cat {
-    pub fn new() -> Cat {
-        Cat {
-            name: String::from(""),
-            age: 0,
-        }
-    }
 }
 
 pub fn build_from_json(config_file: &str) -> Vec::<Cat> {
