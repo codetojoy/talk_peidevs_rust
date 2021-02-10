@@ -10,6 +10,7 @@ Notes/examples for a talk on Rust, for [PEI Developers](http://peidevs.github.io
 
 * free book: [The Rust Programming Language](https://doc.rust-lang.org/book/)
 * [Rust Playground](https://play.rust-lang.org/)
+* [Rust Crate Registry](https://crates.io/) (like `npm` or Maven Central)
 * [Rust Foundation](https://foundation.rust-lang.org/posts/2021-02-08-hello-world/) announced
 * [Rust Foundation concept](https://blog.rust-lang.org/2020/08/18/laying-the-foundation-for-rusts-future.html) (addresses Mozilla layoffs)
 * video

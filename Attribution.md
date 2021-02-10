@@ -1,5 +1,6 @@
 ### Attribution
 
+* vintage postcard [here](https://www.flickr.com/photos/christianspenceranderson/23252779882)
 * Rust logo [here](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg)
 * Mozilla logo [here](https://en.wikipedia.org/wiki/Mozilla#/media/File:Mozilla_logo.svg) 
 * Ferris logo [here](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rustacean-orig-noshadow.svg)
@@ -19,4 +20,7 @@
     - https://pixabay.com/photos/cat-british-surprise-view-2762156/
 * border collie [here](https://en.wikipedia.org/wiki/Border_Collie#/media/File:Border_collie_different_eyes_dog.jpg)
 * puppy [here](https://en.wikipedia.org/wiki/Border_Collie#/media/File:Male_Border_Collie_Puppy_On_First_Walk.jpg)
+* Lewis Hamilton car [here](https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2016_Malaysia_FP2_1.jpg)
+* Thank you [here](https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2016_Malaysia_FP2_1.jpg)
 * dragster [here](https://commons.wikimedia.org/wiki/File:Top_Dragster.JPG)
+* porsche [here](https://en.wikipedia.org/wiki/Porsche_911_GT3#/media/File:Porsche_911_GT3_RS_Monaco_IMG_1174.jpg)
