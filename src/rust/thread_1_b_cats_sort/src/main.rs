@@ -19,7 +19,7 @@ fn main() {
 
     // `move` is crucial for this to work
     let handle = thread::spawn(move || {
-        cats.sort_by(|a, b| b.name.cmp(&a.name));
+        cats.sort_by(|a, b| a.name.cmp(&b.name));
 
         for cat in cats {
             println!("TRACER {:?}", cat);
