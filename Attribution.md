@@ -12,7 +12,7 @@
 * [Python logo](https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python_logo_and_wordmark.svg) via [GPL](https://en.wikipedia.org/wiki/GNU_General_Public_License)
 * [unofficial JavaScript logo](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg) via public domain
 * [Go logo](https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg) via public domain
-* [Monkey](https://pixabay.com/photos/animal-monkey-gibbon-mammal-1821737/) by [Gerhard G.](https://pixabay.com/users/blende12-201217/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1821737] via 'Free for commercial use'
+* [Monkey](https://pixabay.com/photos/animal-monkey-gibbon-mammal-1821737/) by [Gerhard G.](https://pixabay.com/users/blende12-201217/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1821737) via 'Free for commercial use'
 * Maki ... Image by <a href="https://pixabay.com/users/joenomias-2512814/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3295891">(Joenomias) Menno de Jong</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3295891">Pixabay</a>
     - https://pixabay.com/photos/maki-curious-halfaap-peekaboo-3295891/
 * cat Image by <a href="https://pixabay.com/users/irina_kukuts-1213707/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2762156">Irina_kukuts</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2762156">Pixabay</a>
@@ -20,6 +20,5 @@
 * border collie [here](https://en.wikipedia.org/wiki/Border_Collie#/media/File:Border_collie_different_eyes_dog.jpg)
 * puppy [here](https://en.wikipedia.org/wiki/Border_Collie#/media/File:Male_Border_Collie_Puppy_On_First_Walk.jpg)
 * Lewis Hamilton car [here](https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2016_Malaysia_FP2_1.jpg)
-* Thank you [here](https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2016_Malaysia_FP2_1.jpg)
-* dragster [here](https://commons.wikimedia.org/wiki/File:Top_Dragster.JPG)
 * porsche [here](https://en.wikipedia.org/wiki/Porsche_911_GT3#/media/File:Porsche_911_GT3_RS_Monaco_IMG_1174.jpg)
+* [Thank you in different languages](https://commons.wikimedia.org/wiki/File:Thank-you-word-cloud.jpg) by [Ashashyou](https://commons.wikimedia.org/wiki/User:Ashashyou) via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
