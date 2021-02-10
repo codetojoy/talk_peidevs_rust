@@ -16,10 +16,10 @@ fn main() {
     cats.push(cat2);
     cats.push(cat3);
 
-    cats.sort_by(|a, b| b.name.cmp(&a.name));
+    cats.sort_by(|a, b| a.name.cmp(&b.name));
 
     for cat in cats {
-        println!("TRACER {:?}", cat);
+        println!("hello TRACER {:?}", cat);
     }
     println!("TRACER Ready.");
 }
