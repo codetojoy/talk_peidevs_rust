@@ -17,7 +17,7 @@
     - https://pixabay.com/photos/maki-curious-halfaap-peekaboo-3295891/
 * cat Image by <a href="https://pixabay.com/users/irina_kukuts-1213707/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2762156">Irina_kukuts</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2762156">Pixabay</a>
     - https://pixabay.com/photos/cat-british-surprise-view-2762156/
-* border collie [here](https://en.wikipedia.org/wiki/Border_Collie#/media/File:Border_collie_different_eyes_dog.jpg)
+* [Male Black & White Border Collie Puppy On Walk](https://en.wikipedia.org/wiki/Border_Collie#/media/File:Border_collie_different_eyes_dog.jpg) by [Janesalway] via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 * puppy [here](https://en.wikipedia.org/wiki/Border_Collie#/media/File:Male_Border_Collie_Puppy_On_First_Walk.jpg)
 * [Formula One 2016 Rd.16 Malaysian GP: Lewis Hamilton (Mercedes)](https://commons.wikimedia.org/wiki/File:Lewis_Hamilton_2016_Malaysia_FP2_1.jpg) by [Morio](https://commons.wikimedia.org/wiki/User:Morio) via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en) 
 * [Porsche 991.2 GT3 RS in Monaco](https://en.wikipedia.org/wiki/Porsche_911_GT3#/media/File:Porsche_911_GT3_RS_Monaco_IMG_1174.jpg) by [Alexander-93](https://commons.wikimedia.org/wiki/User:Alexander-93) via [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
