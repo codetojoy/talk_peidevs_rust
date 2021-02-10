@@ -1,18 +1,17 @@
 
-use std::thread;
 use std::vec::Vec;
 
 use rayon::prelude::*;
 
 #[derive(Debug)]
 struct Cat {
-    x: u32,
+    name: String,
     age: u8,
 }
 
 // log with thread id prefix
 pub fn t_log(s: &str) {
-    println!("TRACER {:?} -- {}", thread::current().id(), s);
+    println!("TRACER {:?} -- {}", std::thread::current().id(), s);
 }
 
 fn serial_emitter(list: &Vec<Cat>) {
@@ -43,13 +42,18 @@ fn parallel_filter(list: &Vec<Cat>, threshold: u8) -> Vec<&Cat> {
 
 fn main() {
     let mut cats = vec![];
-    cats.push(Cat{x: 10, age: 2});
-    cats.push(Cat{x: 20, age: 3});
-    cats.push(Cat{x: 30, age: 4});
-    cats.push(Cat{x: 40, age: 5});
-    cats.push(Cat{x: 50, age: 6});
+    cats.push(Cat{name: String::from("Bach"), age: 1});
+    cats.push(Cat{name: String::from("Beethoven"), age: 2});
+    cats.push(Cat{name: String::from("Mozart"), age: 3});
+    cats.push(Cat{name: String::from("Schubert"), age: 4});
+    cats.push(Cat{name: String::from("Wagner"), age: 1});
+    cats.push(Cat{name: String::from("Vivaldi"), age: 2});
+    cats.push(Cat{name: String::from("Brahms"), age: 3});
+    cats.push(Cat{name: String::from("Chopin"), age: 4});
+    cats.push(Cat{name: String::from("Stravinsky"), age: 1});
+    cats.push(Cat{name: String::from("Shostakovich"), age: 2});
 
-    let which = 3;
+    let which = 2;
 
     if which == 1 {
        serial_emitter(&cats);
