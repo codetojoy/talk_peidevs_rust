@@ -1,9 +1,9 @@
 ### Attribution
 
-* vintage postcard [here](https://www.flickr.com/photos/christianspenceranderson/23252779882)
-* Rust logo [here](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg)
-* Mozilla logo [here](https://en.wikipedia.org/wiki/Mozilla#/media/File:Mozilla_logo.svg) 
-* Ferris logo [here](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rustacean-orig-noshadow.svg)
+* [Vintage postcard: Holiday Inn, 7800 Lemmon Ave., Bluff View Circle, near Love Field, Dallas, Texas](https://www.flickr.com/photos/christianspenceranderson/23252779882) by [coltera](https://www.flickr.com/photos/christianspenceranderson/) via [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
+* [Rust logo](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rust_programming_language_black_logo.svg) via public domain
+* [Mozilla logo](https://en.wikipedia.org/wiki/Mozilla#/media/File:Mozilla_logo.svg) via public domain
+* [Ferris, mascot for Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)#/media/File:Rustacean-orig-noshadow.svg) via [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 * C Programming Language [here](https://en.wikipedia.org/wiki/C_(programming_language)#/media/File:The_C_Programming_Language_logo.svg)
 * C++ [here](https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)
 * Microsoft [here](https://en.wikipedia.org/wiki/Microsoft#/media/File:Microsoft_logo_(2012).svg)
