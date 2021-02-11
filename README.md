@@ -6,6 +6,11 @@ Notes/examples for a talk on Rust, for [PEI Developers](http://peidevs.github.io
 
 * see [Attribution.md](./Attribution.md)
 
+### Examples
+
+* see [src](./src) for some modest examples
+* TODO: list examples actually used in presentation
+
 ### Resources
 
 * free book: [The Rust Programming Language](https://doc.rust-lang.org/book/)
