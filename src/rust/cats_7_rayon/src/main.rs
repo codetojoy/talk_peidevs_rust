@@ -53,21 +53,23 @@ fn main() {
     cats.push(Cat{name: String::from("Stravinsky"), age: 1});
     cats.push(Cat{name: String::from("Shostakovich"), age: 2});
 
-    let which = 2;
+    let args: Vec<String> = std::env::args().collect();
+    let which = args[1].parse::<u8>().unwrap();
+    println!("TRACER running case: {}", which);
 
     if which == 1 {
        serial_emitter(&cats);
     } else if which == 2 {
        parallel_emitter(&cats);
     } else if which == 3 {
-        let age = 3;
+        let age = 2;
         let results = serial_filter(&cats, age);
 
         for result in results.iter() {
             println!("TRACER {:?}", result);
         }
     } else if which == 4 {
-        let age = 3;
+        let age = 2;
         let results = parallel_filter(&cats, age);
 
         for result in results.iter() {
