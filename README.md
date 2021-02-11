@@ -4,7 +4,7 @@ Notes/examples for a talk on Rust, for [PEI Developers](http://peidevs.github.io
 
 ### Attribution
 
-* see Attribution.md
+* see [Attribution.md](./Attribution.md)
 
 ### Resources
 
