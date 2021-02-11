@@ -14,28 +14,28 @@ pub fn t_log(s: &str) {
     println!("TRACER {:?} -- {}", std::thread::current().id(), s);
 }
 
-fn serial_emitter(list: &Vec<Cat>) {
-    list.into_iter().for_each(|info|
-        t_log(&format!("{:?}", info))
+fn serial_emitter(cats: &Vec<Cat>) {
+    cats.into_iter().for_each(|cat|
+        t_log(&format!("{:?}", cat))
     );
 }
 
-fn parallel_emitter(list: &Vec<Cat>) {
-    list.into_par_iter().for_each(|info|
-        t_log(&format!("{:?}", info))
+fn parallel_emitter(cats: &Vec<Cat>) {
+    cats.into_par_iter().for_each(|cat|
+        t_log(&format!("{:?}", cat))
     );
 }
 
-fn serial_filter(list: &Vec<Cat>, threshold: u8) -> Vec<&Cat> {
-    let result = list.into_iter().filter(|&info|
-        info.age > threshold
+fn serial_filter(cats: &Vec<Cat>, target_age: u8) -> Vec<&Cat> {
+    let result = cats.into_iter().filter(|&cat|
+        cat.age > target_age
     ).collect();
     return result;
 }
 
-fn parallel_filter(list: &Vec<Cat>, threshold: u8) -> Vec<&Cat> {
-    let result = list.into_par_iter().filter(|&info|
-        info.age > threshold
+fn parallel_filter(cats: &Vec<Cat>, target_age: u8) -> Vec<&Cat> {
+    let result = cats.into_par_iter().filter(|&cat|
+        cat.age > target_age
     ).collect();
     return result;
 }
