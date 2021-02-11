@@ -14,6 +14,6 @@ describe("oldest", () => {
     // test
     let result: Animal = oldest(cat, dog);
 
-    expect(result.getAge()).toBe(4);
+    expect(result.getName()).toBe("Mozart");
   });
 });

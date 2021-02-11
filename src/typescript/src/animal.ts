@@ -1,6 +1,7 @@
 export interface Animal {
   getNoise(): string;
   getAge(): number;
+  getName(): string;
 }
 
 export function oldest(x: Animal, y: Animal): Animal {

@@ -11,6 +11,10 @@ export class Cat implements Animal {
   public getAge(): number {
     return this.age;
   }
+
+  public getName(): string {
+    return this.name;
+  }
 }
 
 export class Dog implements Animal {
@@ -23,5 +27,9 @@ export class Dog implements Animal {
 
   public getAge(): number {
     return this.age;
+  }
+
+  public getName(): string {
+    return this.name;
   }
 }
