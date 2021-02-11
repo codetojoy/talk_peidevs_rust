@@ -1,5 +1,5 @@
 
-### Notes
+### Docker usage
 
 * `docker build -t="my_cpp" .`
 * `docker run --rm -i -t -v $(pwd):/data my_cpp`
