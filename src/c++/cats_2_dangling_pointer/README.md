@@ -6,3 +6,7 @@
     - will put you into Bash inside the container
     - `cd /data`
     - `./go.sh`
+
+### Notes
+
+* illustrates dangling pointer in [this file](./example.cpp)
