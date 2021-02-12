@@ -11,15 +11,15 @@
 ### Examples from presentation
 
 * see [src](./src) for code examples
-    - ownership e.g. 1 [here](./src/cats_3_ownership_1)
-    - ownership e.g. 2 [here](./src/cats_3_ownership_2)
-    - borrow e.g. 1 [here](./src/cats_4_borrow_1))
-    - borrow e.g. 2 [here](./src/cats_4_borrow_2))
+    - ownership e.g. 1 [here](./src/rust/cats_3_ownership_1)
+    - ownership e.g. 2 [here](./src/rust/cats_3_ownership_2)
+    - borrow e.g. 1 [here](./src/rust/cats_4_borrow_1))
+    - borrow e.g. 2 [here](./src/rust/cats_4_borrow_2))
     - C++ dangling pointer [here](./src/c%2B%2B/cats_5_dangling_pointer)
-        - compared to Rust [here](./src/cats_5_compared_to_cpp)
+        - compared to Rust [here](./src/rust/cats_5_compared_to_cpp)
     - TypeScript interface [here](./src/typescript)
-        - compared to Rust [here](./src/cats_6_lifetimes)
-    - Rust parallel with Rayon [here](./src/cats_7_rayon)
+        - compared to Rust [here](./src/rust/cats_6_lifetimes)
+    - Rust parallel with Rayon [here](./src/rust/cats_7_rayon)
 
 ### Usage in production
 
