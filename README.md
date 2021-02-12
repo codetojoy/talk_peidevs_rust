@@ -6,10 +6,27 @@ Notes/examples for a talk on Rust, for [PEI Developers](http://peidevs.github.io
 
 * see [Attribution.md](./Attribution.md)
 
-### Examples
+### Examples from presentation
 
-* see [src](./src) for some modest examples
-* TODO: list examples actually used in presentation
+* see [src](./src) for code examples
+    - ownership e.g. 1 [here](./src/cats_3_ownership_1)
+    - ownership e.g. 2 [here](./src/cats_3_ownership_2)
+    - borrow e.g. 1 [here](./src/cats_4_borrow_1))
+    - borrow e.g. 2 [here](./src/cats_4_borrow_2))
+    - C++ dangling pointer [here](./src/c%2B%2B/cats_5_dangling_pointer)
+        - compared to Rust [here](./src/cats_5_compared_to_cpp)
+    - TypeScript interface [here](./src/typescript)
+        - compared to Rust [here](./src/cats_6_lifetimes)
+    - Rust parallel with Rayon [here](./src/cats_7_rayon)
+
+### Usage in production
+
+* [here](https://serokell.io/blog/rust-companies)
+
+### Modest projects (as examples)
+
+* [Factorial](https://github.com/codetojoy/Factorial_Rust)
+* [WarO](https://github.com/codetojoy/WarO_Rust) 
 
 ### Resources
 
