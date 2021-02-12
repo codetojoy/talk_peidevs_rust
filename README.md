@@ -24,6 +24,13 @@
 ### Usage in production
 
 * [here](https://serokell.io/blog/rust-companies)
+* [here](https://changelog.com/podcast/takeover-codeish-34) near 18m55s mark
+    - Mozilla Firefox
+    - Amazon Firecracker Micro VM
+    - [Google Fuschia OS](https://en.wikipedia.org/wiki/Google_Fuchsia) 
+    - Facebook Mercurial server
+    - Facebook blockchain for Libra
+    - research for Ember framework (diff-algorithm in engine)
 
 ### Modest projects (as examples)
 
