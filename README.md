@@ -24,6 +24,7 @@
 ### Usage in production
 
 * [here](https://serokell.io/blog/rust-companies)
+* adoption notes on [Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language)#Adoption)
 * [here](https://changelog.com/podcast/takeover-codeish-34) near 18m55s mark
     - Mozilla Firefox
     - Amazon Firecracker Micro VM
