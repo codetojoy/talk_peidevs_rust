@@ -17,7 +17,7 @@ Here are some thoughts that didn't make it to the presentation:
     - Dealing with memory management (e.g. C/C++) is like driving a stick-shift in a car. It is extra cognitive load, orthogonal to the goal (i.e. navigating to a destination).
     - Garbage-collected languages (e.g. Java/C#/Go) are like driving with an automatic transmission: easy and we don't give it much thought.
     - Rust is like a semi-automatic paddle-shifter on a sports-car's steering wheel. No clutch: just flick the paddles.
-        - Stick-shift drivers immediately "get it" and appreciate that it less work.
+        - Stick-shift drivers immediately "get it" and appreciate that it is less work.
         - Automatic-trans drivers might be aghast: "what do you mean, you need to pay attention to what gear you're in?". Rather than seeing the benefits, the additional cognitive load is heavy and jarring.
 * Scott Hanselman commented that `drop()` is reminiscent of AOP. [here](https://hanselminutes.com/713/rust-a-language-for-the-next-40-years-with-carol-nichols) on Hanselminutes
 
