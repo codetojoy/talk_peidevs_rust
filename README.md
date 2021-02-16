@@ -20,6 +20,8 @@ Here are some thoughts that didn't make it to the presentation:
         - Stick-shift drivers immediately "get it" and appreciate that it is less work.
         - Automatic-trans drivers might be aghast: "what do you mean, you need to pay attention to what gear you're in?". Rather than seeing the benefits, the additional cognitive load is heavy and jarring.
 * Scott Hanselman commented that `drop()` is reminiscent of AOP. [here](https://hanselminutes.com/713/rust-a-language-for-the-next-40-years-with-carol-nichols) on Hanselminutes
+* I've observed a phenomenon where, after being sufficiently 'beaten up' by the Borrow Checker, that I disengage thought and am just hammering out code to try and placate it.
+    - aka "Borrow Checker, take the wheel"
 
 ### Examples from presentation
 
