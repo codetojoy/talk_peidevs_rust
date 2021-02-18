@@ -22,8 +22,10 @@ Here are some thoughts that didn't make it to the presentation:
 * Scott Hanselman commented that `drop()` is reminiscent of AOP. [here](https://hanselminutes.com/713/rust-a-language-for-the-next-40-years-with-carol-nichols) on Hanselminutes
 * I've observed a phenomenon where, after being sufficiently 'beaten up' by the Borrow Checker, that I disengage thought and am just hammering out code to try and placate it.
     - aka "Borrow Checker, take the wheel"
-* I should have highlighted that "minimal runtime" implies "ultra-fast startup time".
-    - Compare with both JVM and Java frameworks, which battle the issue of startup time.
+* More notes on "minimal runtime":
+    - The minimal runtime implies ultra-fast startup time. Compare with both JVM and Java frameworks, which battle the issue of startup time.
+    - No tuning for garbage collection! 
+    - It isn't a surprise, but simple Rust console programs are startlingly fast. Rust reminds us just how powerful today's computers are.
 
 ### Examples from presentation
 
