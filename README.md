@@ -69,6 +69,7 @@ Here are some thoughts that didn't make it to the presentation:
     - ["Rust, WebAssembly, and the future of Serverless"](https://www.youtube.com/watch?v=CMB6AlE1QuI) by [Steve Klabnik](https://twitter.com/steveklabnik)
     - ["A Case for Oxidation: The Rust Programming Language"](https://www.youtube.com/watch?v=cDFSrVhnZKo) by [Sergio Benitez](https://github.com/SergioBenitez)
 * blog post: ["What is Rust and why is it so popular?"](https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/), Stack Overflow 
+    - ["Consider Rust"](https://www.youtube.com/watch?v=DnT-LUQgc7s) by [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
 * podcast
     - episode: [Intro to Rust programming](https://changelog.com/podcast/takeover-codeish-34) on The Changelog
     - episode: [Rust: A language for the next 40 years](https://hanselminutes.com/713/rust-a-language-for-the-next-40-years-with-carol-nichols) on Hanselminutes
