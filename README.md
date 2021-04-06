@@ -74,3 +74,4 @@ Here are some thoughts that didn't make it to the presentation:
     - episode: [Intro to Rust programming](https://changelog.com/podcast/takeover-codeish-34) on The Changelog
     - episode: [Rust: A language for the next 40 years](https://hanselminutes.com/713/rust-a-language-for-the-next-40-years-with-carol-nichols) on Hanselminutes
     - series (inactive): [New Rustacean](https://newrustacean.com/)
+    - ["Rust in the Linux Kernel"](https://www.youtube.com/watch?v=u80WqduxdhA) by John Baublitz
